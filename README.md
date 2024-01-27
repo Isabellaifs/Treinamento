@@ -1,25 +1,21 @@
 
 # DIO | Treinamento aulas de Git e GitHub
 
-Repositório para armazenar resumos sobre Git e GitHub
-do curso Versionamento de código com Git e GitHub
+RepositÃ³rio para armazenar resumos sobre Git e GitHub
+do curso Versionamento de cÃ³digo com Git e GitHub
 
-##  Documentação 
+##  DocumentaÃ§Ã£o 
 
-- [Documentação Git] (https://git-scm.com/doc)
-- [Documentação GitHub] (https://docs.github.com/pt)
+- [DocumentaÃ§Ã£o Git] (https://git-scm.com/doc)
+- [DocumentaÃ§Ã£o GitHub] (https://docs.github.com/pt)
 
 ## Resumo das Aulas
 
 | Aula |
 |-------|
-| Gravando alerações no repositório local  |
-() |
+| Gravando aleraÃ§Ãµes no repositÃ³rio local  |
 
-```
-git init
-```
 
-## Referências
+## ReferÃªncias
 - [Digital Inovation one] (https://github.com/digitalinnovationone)
-#Treinamento
+
